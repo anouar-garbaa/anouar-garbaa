@@ -60,8 +60,8 @@ I'm a passionate **Full Stack Developer** with experience in **React, Node.js, E
 ![NextAuth](https://img.shields.io/badge/NextAuth-%23000000?style=flat-square&logo=key&logoColor=white)
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anouar4070&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anouar4070&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anouar-garbaa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anouar-garbaa&layout=compact&theme=radical)  
 
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/anouar-garbaa/)  
